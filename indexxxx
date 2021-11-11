@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="ru">
+  <head>
+    <meta charset="UTF-8">
+    <link rel="stylesheet" href="outlines.css">
+    <title>Портфолио Самир мотобайкер</title>
+  </head>
+
+  <body>
+    <header class="page-header">
+      Как меня найти 79777777777
+    </header>
+
+    <section class="hero-image">
+      <h1 class="heading">Байгубаков Самир</h1>
+      <p>Мне 15 лет</p>
+    </section>
+
+    <section class="intro">
+      <h2 class="subheading">Давайте познакомимся</h2>
+      <h3>Катаюсь на мотоцикле безбашенно</h3>
+      <p>Самир победитель на Романьяк в классе Gold.</p>
+      <h3>Могу прожечь весь бензин</h3>
+      <p>Меня часто ругают за проженный бензин.</p>
+    </section>
+
+    <section class="portfolio">
+      <h2 class="subheading">Мои работы</h2>
+
+      <h3>Магазин товаров для мотоциклов</h3>
+      <p>Мой первый сайт очень хороший.</p>
+
+      <h3>Блог начинающего верстальщика</h3>
+      <p>Статический блог про мотоциклы.</p>
+    </section>
+
+    <footer class="page-footer">
+      Мой второй номер 7987777777
+    </footer>
+  </body>
+</html>
